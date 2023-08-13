@@ -41,7 +41,7 @@ class LoginScreen extends ConsumerWidget {
               children: [
                 const SizedBox(height: 30),
                 const Text(
-                  'Dive into anything',
+                  'Discuss and Discover',
                   style: TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.bold,
