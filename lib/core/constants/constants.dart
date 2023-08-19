@@ -10,7 +10,7 @@ class Constants {
   static const bannerDefault =
       'https://thumbs.dreamstime.com/b/abstract-stained-pattern-rectangle-background-blue-sky-over-fiery-red-orange-color-modern-painting-art-watercolor-effe-texture-123047399.jpg';
   static const avatarDefault =
-      'https://www.pinclipart.com/picdir/big/157-1578186_user-profile-default-image-png-clipart.png';
+      'https://www.nicepng.com/png/detail/933-9332131_profile-picture-default-png.png';
 
   static const tabWidgets = [
     FeedScreen(),
